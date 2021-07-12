@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidStudioProjects.ModularizationExample.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidStudioProjects.ModularizationExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/ModularizationExample.iml" filepath="$PROJECT_DIR$/ModularizationExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ModularizationExample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ModularizationExample.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ModularizationExample.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/ModularizationExample.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/ModularizationExample.features.iml" filepath="$PROJECT_DIR$/.idea/modules/features/ModularizationExample.features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/dashboard/ModularizationExample.features.dashboard.iml" filepath="$PROJECT_DIR$/.idea/modules/features/dashboard/ModularizationExample.features.dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/login/ModularizationExample.features.login.iml" filepath="$PROJECT_DIR$/.idea/modules/features/login/ModularizationExample.features.login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/sharing/ModularizationExample.features.sharing.iml" filepath="$PROJECT_DIR$/.idea/modules/features/sharing/ModularizationExample.features.sharing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraries/ModularizationExample.libraries.iml" filepath="$PROJECT_DIR$/.idea/modules/libraries/ModularizationExample.libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraries/actions/ModularizationExample.libraries.actions.iml" filepath="$PROJECT_DIR$/.idea/modules/libraries/actions/ModularizationExample.libraries.actions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraries/ui-components/ModularizationExample.libraries.ui-components.iml" filepath="$PROJECT_DIR$/.idea/modules/libraries/ui-components/ModularizationExample.libraries.ui-components.iml" />
       <module fileurl="file://$PROJECT_DIR$/libraries/actions/actions.iml" filepath="$PROJECT_DIR$/libraries/actions/actions.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/buildSrc/buildSrc.iml" filepath="$PROJECT_DIR$/buildSrc/buildSrc.iml" />
