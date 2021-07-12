@@ -4,3 +4,11 @@ include ':features:dashboard'
 include ':features:sharing'
 include ':libraries:ui-components'
 include ':libraries:actions'
+
+buildCache {
+    local {
+        enabled = true
+        directory = new File(rootDir, 'build-cache')
+        removeUnusedEntriesAfterDays = 30
+    }
+}
